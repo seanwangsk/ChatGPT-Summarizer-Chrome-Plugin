@@ -1,3 +1,6 @@
+![Your Project Logo](icons/icon128.png)
+
+
 # ChatGPT Summarizer Chrome Extension
 
 ChatGPT Summarizer is a Chrome extension that provides a brief summary of the content on a website, specializing in summarizing articles and email threads, but can be used for any web content. This extension is built by fruity-ai.com.
